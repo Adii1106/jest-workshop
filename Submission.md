@@ -22,7 +22,7 @@ List each test you wrote and briefly explain **what bug or regression it prevent
 ---
 
 ### 3. Test Name:
-**What it protects against:**  
+**What it protects against:**   
 
 ---
 
