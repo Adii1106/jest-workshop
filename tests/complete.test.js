@@ -2,7 +2,7 @@ const { calculateFinalAmount } = require("../src/pricing");
 
 // 1. Negative Subtotal
 test("Check for negative subtotal", () => {
-  expect(() => calculateFinalAmount(-100, "DISCOUNT")).toThrow(
+  expect(() => calculateFinalAmount(-100, "DISCOUNT.")).toThrow(
     "Invalid subtotal"
   );
 });
