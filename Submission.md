@@ -49,7 +49,7 @@ Ensures coupons work regardless of letter casing
 
 ## CI Pipeline (if implemented)
 - Did CI pass successfully? Yes  
-- GitHub Actions Run URL: https://github.com/Adii1106/jest-workshop/actions/runs/21825206371
+- GitHub Actions Run URL: https://github.com/Adii1106/jest-workshop/actions/runs/21825857955
 
 ---
 
